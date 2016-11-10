@@ -14,7 +14,7 @@ Right now, the micropurchase platform is optimized for code auctions, but we are
 
 4. If you are still waiting on an IAA, add the label `iaa needed`
 
-5. Give your issue a title and click the "Submit new issue" button (rather than creating an epic).
+5. Give your issue a title and click the "Submit new issue" button (rather than "Create an epic").
 
 6. Then contact @adelevie or @mtorres in the #micropurchase-bizdev channel to let us know about it.
 
