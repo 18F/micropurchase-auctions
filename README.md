@@ -1,5 +1,5 @@
 # micropurchase-auctions
-A repo where anyone can add suggested micro-purchase auctions. Please review our documentation so you can learn how to (get started)[https://micropurchase.18f.gov/docs/getting_started] and details on how to (create an auction)[https://micropurchase.18f.gov/docs/getting_started]
+A repo where anyone can add suggested micro-purchase auctions. Please review our documentation so you can learn how to [get started](https://micropurchase.18f.gov/docs/getting_started) and details on how to [create an auction](https://micropurchase.18f.gov/docs/getting_started)
 
 # What do I do?
 
