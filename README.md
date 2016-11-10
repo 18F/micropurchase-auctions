@@ -18,7 +18,7 @@ Right now, the micropurchase platform is optimized for code auctions, but we are
 
 5. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
 
-6. Then contact @adelevie or @mtorres in the #micropurchase-bizdev channel to let us know about it.
+6. Then contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it.
 
 
 ## What happens next?
