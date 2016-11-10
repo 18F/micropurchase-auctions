@@ -3,6 +3,7 @@ This is a repo where you can suggest auctions to run on the micro-purchase platf
 
 Right now, the micropurchase platform is optimized for code auctions, but we are interested in expanding this, so don't be afraid to suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
+
 ## Submitting an auction:
 
 1. [File a new issue](https://github.com/18F/micropurchase-auctions/issues/new) in this repo. Make sure to give your issue a title and create an issue rather than an epic.
@@ -14,6 +15,7 @@ Right now, the micropurchase platform is optimized for code auctions, but we are
 4. If you are still waiting on an IAA, add the label `iaa needed`
 
 5. Then contact @adelevie or @mtorres in the #micropurchase-bizdev channel to let us know about it.
+
 
 ## What happens next?
 Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! 
