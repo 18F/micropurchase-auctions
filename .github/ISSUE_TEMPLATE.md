@@ -1,27 +1,29 @@
-# Proposed auction data
+# Proposed auction details
 
 ### Customer information
 
-- Agency customer acronym (e.g. OPP)
+- Which agency/office owns the project? (e.g. GSA/OPP)
 
-- Project name (e.g. Open Opportunities,) 
+- What is the project name? (e.g. Open Opportunities,) 
 
-- Tock project name (Custom Partner Solutions / OCSIT / Open Opportunities)
+- What is the Tock project name? (Custom Partner Solutions / OCSIT / Open Opportunities)
 
-- Primary contact / slack (e.g. Lisa Nelson / @lisanelson )
+- Who is the project primary contact? (e.g. Lisa Nelson / @lisanelson )
 
-- Developer contact / slack (e.g. Roger Ruiz / @roger )
+- Who is the technical contact who will merge the delivered code (e.g. Roger Ruiz / @roger )
 
 
 ### Auction information
 
-- GitHub issue URL 
+- What is the GitHub URL of the issue associated with your auction? 
 
-- Auction Title (Title of the auction seen by vendor)
+- What is the display title of your auction?
 
-- Auction Summary (Summary of the auction seen by vendor)
+- What is a good summary of your auction? 
 
-- Starting price (Your team's estimate of the actual dollar value of the work you are requesting - must be $3500 or less)
+- What is your team's estimate of the actual dollar value of the work you are requesting (must be $3500 or less)
+
+- What is your desired time frame to run the auction?
 
 
 
