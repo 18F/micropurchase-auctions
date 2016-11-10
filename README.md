@@ -22,7 +22,7 @@ Right now, the micropurchase platform is optimized for code auctions, but we are
 
 
 ## What happens next?
-Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! 
+Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! The auction includes delivery of code. Someone on your team must be responsible for evaluating that code, merging accepted code and making sure the code gets deployed.
 
 
 ## Public domain
