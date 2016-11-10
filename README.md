@@ -8,7 +8,7 @@ Right now, the micropurchase platform is optimized for code auctions, but we are
 
 1. [File a new issue](https://github.com/18F/micropurchase-auctions/issues/new) in this repo.
 
-2. Fill out all the information in the suggested issue template
+2. Fill out all the information requested in the issue template
 
 3. Add a label `new auction`
 
