@@ -6,7 +6,7 @@
 
 - What is the project name? (e.g. Open Opportunities,) 
 
-- What is the Tock project name? (e.g. Custom Partner Solutions / OCSIT / Open Opportunities)
+- What is the Tock project name? (e.g. Custom Partner Solutions / OPP / Open Opportunities)
 
 - Who is the project primary contact? (e.g. Lisa Nelson / @lisanelson )
 
