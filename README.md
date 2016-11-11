@@ -1,7 +1,7 @@
 # 18F Micro-purchase - Submit an auction
 The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a good deal of success in the past year delivering quality open source code at a good price for a variety of agency customers and projects. In an effort to help our customers more easily submit potential auctions, we've created this repo.
 
-Before you submit an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started)
+Before you submit an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started).
 
 Right now, the platform is optimized for code auctions, but we are interested in expanding this, so please suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
