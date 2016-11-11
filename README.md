@@ -3,6 +3,8 @@ This is a repo where you can suggest auctions to run on the [micro-purchase plat
 
 Right now, the micropurchase platform is optimized for code auctions, but we are interested in expanding this, so don't be afraid to suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
+It's also worth emphasizing that auctions are not a replacement for a product team including developers who are familiar with the codebase. The platform will get you the code, but you and your team are responsible for evaluating the code and merging accepted code in a timely manner, and deploying any delivered code to production.
+
 
 ## How to do it:
 
