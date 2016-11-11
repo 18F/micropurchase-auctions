@@ -22,16 +22,13 @@ _It's also worth emphasizing that auctions are not a replacement for a product t
 
 5. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
 
-6. Then contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it.
+6. Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it, or to ask any questions.
 
 
 ## What happens next?
 Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! The auction includes delivery of code. Someone on your team must be responsible for evaluating that code, merging accepted code and making sure the code gets deployed.
 
 Once your auction is published, you'll be able to see it on [micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to the delivery.
-
-## What if I have feedback on this process?
-Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it.
 
 
 ## Public domain
