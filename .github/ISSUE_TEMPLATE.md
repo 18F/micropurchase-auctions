@@ -1,6 +1,6 @@
 # Proposed auction details
 
-### Customer information
+### Customer and project information
 
 - Which agency/office owns the project? (e.g. GSA/OPP)
 
@@ -13,7 +13,7 @@
 - Who is the technical contact who will merge the delivered code (e.g. Roger Ruiz / @roger )
 
 
-### Auction information
+### Auction details
 
 - What is the GitHub URL of the issue associated with your auction? 
 
