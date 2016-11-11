@@ -6,7 +6,7 @@ Right now, the micropurchase platform is optimized for code auctions, but we are
 _It's also worth emphasizing that auctions are not a replacement for a product team including developers who are familiar with the codebase. The platform will get you the code, but you and your team are responsible for evaluating the delivered code and merging the pull request, and deploying any delivered code to production._
 
 
-## How to do it:
+## How to submit an auction:
 
 1. [File a new issue](https://github.com/18F/micropurchase-auctions/issues/new) in this repo.
 
