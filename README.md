@@ -3,7 +3,7 @@ The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a 
 
 Before you submit an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started)
 
-Right now, the micropurchase platform is optimized for code auctions, but we are interested in expanding this, so don't be afraid to suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
+Right now, the platform is optimized for code auctions, but we are interested in expanding this, so please suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
 _It's also worth emphasizing that auctions are not a replacement for a product team including developers who are familiar with the codebase. The platform will get you the code, but you and your team are responsible for evaluating the delivered code and merging the pull request, and deploying any delivered code to production._
 
