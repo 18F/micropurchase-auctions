@@ -15,7 +15,7 @@
 
 ### Auction details
 
-- What is the GitHub URL of the issue associated with your auction? 
+- What is the GitHub URL of the issue containing your auction requirements? 
 
 - What is the display title of your auction?
 
