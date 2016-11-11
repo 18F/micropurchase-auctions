@@ -28,9 +28,9 @@ _It's also worth emphasizing that auctions and open source contributions in gene
 ## What happens next?
 Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. 
 
-When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production.
-
 Once your auction is published, you'll be able to see it on [micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to the delivery.
+
+When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production.
 
 
 ## Public domain
