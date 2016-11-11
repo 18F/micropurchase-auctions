@@ -1,7 +1,7 @@
 # 18F Micro-purchase - Submit an auction
-The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a good deal of success in the past year delivering quality open source code at a good price for a variety of agency customers and projects. In an effort to help our users more easily submit auctions for us to run, we've created this repo. You may submit any auction ideas as issues and we can take ti from there.
+The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a good deal of success in the past year delivering quality open source code at a good price for a variety of agency customers and projects. In an effort to help our users more easily submit their potential auctions, we've created this repo.
 
-You may want to first review our documentation so you can learn how to [get started](https://micropurchase.18f.gov/docs/getting_started) with an open source project and get more details about how to [create an auction](https://micropurchase.18f.gov/docs/getting_started)
+Before you submit an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about[creating one](https://micropurchase.18f.gov/docs/getting_started)
 
 Right now, the micropurchase platform is optimized for code auctions, but we are interested in expanding this, so don't be afraid to suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
@@ -29,6 +29,9 @@ _It's also worth emphasizing that auctions are not a replacement for a product t
 Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! The auction includes delivery of code. Someone on your team must be responsible for evaluating that code, merging accepted code and making sure the code gets deployed.
 
 Once your auction is published, you'll be able to see it on [micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to the delivery.
+
+## What if I have feedback on this process?
+Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it.
 
 
 ## Public domain
