@@ -33,7 +33,7 @@ Right now, the platform is optimized for code auctions, but we are interested in
 
 _It's also worth emphasizing that auctions and open source contributions in general are not a replacement for a product team, including developers who are familiar with the code base._
 
-The platform will get you the code, but you and your team are responsible for defining the requirements, evaluating the delivered work, merging any pull requests, and deploying any delivered code to production. The best case is to submit an issue for a story that already exists in your backlog and is well groomed and understood by the team.
+The platform will get you the code, but you and your team are responsible for defining the requirements, evaluating the delivered work, merging any pull requests, and deploying any delivered code to production. Ideally you would submit an auction for a story that already exists in your backlog, and is well groomed and understood by the team.
 
 
 ## Public domain
