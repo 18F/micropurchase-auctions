@@ -18,6 +18,13 @@ The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a 
 
 6. Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it, or to ask any questions.
 
+## What happens after my issue is created?
+Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. 
+
+Once your auction is published, you'll be able to see it on [Micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to delivery.
+
+When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production.
+
 ## Some important reminders:
 
 Before creating an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started).
@@ -25,14 +32,6 @@ Before creating an auction, you may want to first review our documentation so yo
 Right now, the platform is optimized for code auctions, but we are interested in expanding this, so please suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
 _It's also worth emphasizing that auctions and open source contributions in general cannot replace a product team, including developers who are familiar with the code base. The platform will get you the code, but you and your team are responsible for defining the ask, evaluating the delivered work, merging any pull requests, and deploying any delivered code to production._
-
-
-## What happens after my issue is created?
-Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. 
-
-Once your auction is published, you'll be able to see it on [Micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to delivery.
-
-When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production.
 
 
 ## Public domain
