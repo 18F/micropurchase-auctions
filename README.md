@@ -5,7 +5,7 @@ Before creating an auction, you may want to first review our documentation so yo
 
 Right now, the platform is optimized for code auctions, but we are interested in expanding this, so please suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
 
-_It's also worth emphasizing that auctions and open source contributions in general cannot replacement a product team, including developers who are familiar with the code base. The platform will get you the code, but you and your team are responsible for the auction requirements, evaluating the delivered code and merging the pull request, and deploying any delivered code to production._
+_It's also worth emphasizing that auctions and open source contributions in general cannot replace a product team, including developers who are familiar with the code base. The platform will get you the code, but you and your team are responsible for the auction requirements, evaluating the delivered code and merging the pull request, and deploying any delivered code to production._
 
 
 ## How to submit an auction:
