@@ -12,6 +12,8 @@
 
 - Who is the technical contact who will merge the delivered code (e.g. Roger Ruiz / @roger )
 
+- What skills are required for your project (e.g. Ruby, Rails, Javascript)
+
 
 ### Auction details
 
