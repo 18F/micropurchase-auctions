@@ -1,12 +1,6 @@
 # 18F Micro-purchase - Submit an auction
 The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a good deal of success in the past year delivering quality open source code at a good price for a variety of agency customers and projects. We want to make it easier for our customers to submit potential auctions, so we've created this repo to help.
 
-Before creating an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started).
-
-Right now, the platform is optimized for code auctions, but we are interested in expanding this, so please suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
-
-_It's also worth emphasizing that auctions and open source contributions in general cannot replace a product team, including developers who are familiar with the code base. The platform will get you the code, but you and your team are responsible for defining the ask, evaluating the delivered work, merging any pull requests, and deploying any delivered code to production._
-
 
 ## How to submit an auction:
 
@@ -23,6 +17,12 @@ _It's also worth emphasizing that auctions and open source contributions in gene
 5. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
 
 6. Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it, or to ask any questions.
+
+Before creating an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started).
+
+Right now, the platform is optimized for code auctions, but we are interested in expanding this, so please suggest other types of work, like research or design. As we explain in our documentation, we aim to keep the asks small (doable within a one week sprint), so keep that in mind as you're putting together your submission.
+
+_It's also worth emphasizing that auctions and open source contributions in general cannot replace a product team, including developers who are familiar with the code base. The platform will get you the code, but you and your team are responsible for defining the ask, evaluating the delivered work, merging any pull requests, and deploying any delivered code to production._
 
 
 ## What happens next?
