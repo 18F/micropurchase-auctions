@@ -26,7 +26,7 @@ _It's also worth emphasizing that auctions and open source contributions in gene
 
 
 ## What happens next?
-Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. The auction includes delivery of code. Someone on your team must be responsible for evaluating that code, merging accepted code and making sure the code gets deployed.
+Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. The auction includes delivery of code, but someone on your team must be responsible for evaluating that code, merging accepted code and making sure the code gets deployed.
 
 Once your auction is published, you'll be able to see it on [micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to the delivery.
 
