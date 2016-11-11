@@ -1,4 +1,4 @@
-# Proposed auction details
+# Proposed auction
 
 ### Customer and project information
 
