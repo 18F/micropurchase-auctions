@@ -26,7 +26,7 @@ Someone on our team will take a look and get back to you within a couple of busi
 
 Once your auction is published, you'll be able to see it on [Micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised in advance, and we will manage the auction all the way through to delivery.
 
-When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production.
+When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production. The Micro-purchase team can pay the vendors using our p-card and reconcile the cost with the existing IAA.
 
 ## Some important reminders:
 
