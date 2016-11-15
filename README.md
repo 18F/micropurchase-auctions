@@ -17,11 +17,9 @@ Two important things to know before you get started.
 
 3. Add a label `new auction`
 
-4. If you are still waiting on an IAA, add the label `iaa needed`
+4. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
 
-5. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
-
-6. Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it, or to ask any questions.
+5. Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it, or to ask any questions.
 
 ## What happens after my issue is created?
 Someone on our team will take a look and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. 
