@@ -12,7 +12,7 @@
 
 - Who is the technical contact who will merge the delivered code (e.g. Roger Ruiz / @roger )
 
-- What skills are required for your project (e.g. Ruby, Rails, Javascript)
+- What skills are required to work on your project? (e.g. Ruby, Rails, Javascript)
 
 
 ### Auction details
@@ -21,12 +21,8 @@
 
 - What is the display title of your auction?
 
-- What is a good summary of your auction? 
+- What is a good summary of your auction? (less than 250 characters)
 
 - What is your team's estimate of the actual dollar value of the work you are requesting (must be $3500 or less)
 
 - What is your desired time frame to run the auction?
-
-
-
-
