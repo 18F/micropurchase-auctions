@@ -23,6 +23,6 @@
 
 - What is a good summary of your auction? (less than 250 characters)
 
-- What is your team's estimate of the actual dollar value of the work you are requesting (must be $3500 or less)
+- What is your desired starting price? (must be $3500 or less)
 
-- What is your desired time frame to run the auction?
+- What is your desired due date for the auction? (e.g. period of performance expires, end of fiscal year)
