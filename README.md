@@ -3,7 +3,7 @@ The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a 
 
 Two important things to know before you get started. 
 
-1. Based on our learnings over the last year, Micro-purchase auctions work best when you are auctioning off a user story that has been groomed, prioritized and estimated by your team. If you need help with this, drop a note in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) 
+1. Micro-purchase auctions work best when you are auctioning off a user story that has been groomed, prioritized and estimated by your team. If you need help with this, drop a note in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) 
 2. You will need an active IAA with enough money left in the budget to pay the winning vendor the maximum amount of the award.
 
 
