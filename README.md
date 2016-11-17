@@ -9,7 +9,7 @@ Two important things to know before you get started.
 
 ## How to submit an auction:
 
-1. [File a new issue](https://github.com/18F/micropurchase-auctions/issues/new) in this repo.
+1. [File a new issue using our template](https://github.com/18F/micropurchase-auctions/issues/new).
 
 2. Give your issue a title
 
