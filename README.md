@@ -13,7 +13,7 @@ Two important things to know before you get started.
 
 2. Give your issue a title
 
-2. Fill out all the information requested in the issue template
+2. Fill out all the requested information
 
 3. Add a label `new auction`
 
