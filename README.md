@@ -3,7 +3,7 @@ The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a 
 
 Two important things to know before you get started. 
 
-1. Based on our learnings over the last year, Micro-purchase auctions work best when you are auctioning off a user story that has been groomed, prioritized and estimated by your team. If you don't already have one, we can help you with that. 
+1. Based on our learnings over the last year, Micro-purchase auctions work best when you are auctioning off a user story that has been groomed, prioritized and estimated by your team. If you don't already have one, drop a note in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) 
 2. You will need an active IAA with enough money left in the budget to pay the winning vendor the maximum amount of the award.
 
 
@@ -19,7 +19,6 @@ Two important things to know before you get started.
 
 4. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
 
-5. Contact [@adelevie](https://gsa-tts.slack.com/messages/@adelevie/) or [@mtorres](https://gsa-tts.slack.com/messages/@mtorres/) in the [#micropurchase-bizdev](https://gsa-tts.slack.com/messages/micropurchase-bizdev/) channel to let us know about it, or to ask any questions.
 
 ## What happens next?
 Someone on our team will take a look at the issue you've created, and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. 
