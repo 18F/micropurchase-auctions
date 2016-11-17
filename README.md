@@ -27,7 +27,7 @@ Once your auction is published, you'll be able to see it on [Micro-purchase plat
 
 When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production. The Micro-purchase team can pay the vendors using our p-card and reconcile the cost with the existing IAA.
 
-## Some important reminders:
+## Some reminders:
 
 Before creating an auction, you may want to first review our documentation so you can learn [what makes a good auction](https://micropurchase.18f.gov/docs/getting_started) and how you go about [creating one](https://micropurchase.18f.gov/docs/getting_started).
 
