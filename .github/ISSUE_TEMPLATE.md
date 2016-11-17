@@ -8,9 +8,9 @@
 
 - What is the Tock project name? (e.g. Custom Partner Solutions / OPP / Open Opportunities)
 
-- Who is the project primary contact? (e.g. Lisa Nelson / @lisanelson )
+- Who is the project primary contact? (e.g. Lisa Nelson : contact email or github name)
 
-- Who is the technical contact who will merge the delivered code (e.g. Roger Ruiz / @roger )
+- Who is the technical contact who will merge the delivered code (e.g. Roger Ruiz : contact email or github name )
 
 - What skills are required to work on your project? (e.g. Ruby, Rails, Javascript)
 
