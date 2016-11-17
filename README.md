@@ -17,7 +17,7 @@ Two important things to know before you get started.
 
 3. Add a label `new auction`
 
-4. When you're ready, click the "Submit new issue" button (rather than "Create an epic").
+4. When you're ready, click the "Submit new issue" button
 
 
 ## What happens next?
