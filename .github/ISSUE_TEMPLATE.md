@@ -27,5 +27,6 @@
 
 - What is your desired due date for the auction? (e.g. period of performance expires, end of fiscal year)
 
-
-@adelevie @mtorres253
+### Notify
+@adelevie 
+@mtorres253
