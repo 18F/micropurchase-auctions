@@ -17,7 +17,7 @@ If you need help, email us at micropurchase@gsa.gov or drop a note in the [#micr
 
 1. [File a new issue using our template](https://github.com/18F/micropurchase-auctions/issues/new)
 
-2. Fill out as much of the requested information as possibble
+2. Fill out as much of the requested information as possible
 
 3. Add a label `new auction`
 
