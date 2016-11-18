@@ -27,7 +27,7 @@ Two important things to know before you get started.
 ## What happens next?
 Someone on our team will take a look at the issue you've created, and get back to you within a couple of business days. We may want to work with you a little more to sharpen the requirements of the auction, or we may just run it! In either case, we'll keep you in the loop. 
 
-Once your auction is published, you'll be able to see it on [Micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised to the vendor community in advance, and we will manage the auction all the way through to delivery.
+Once your auction is published, you'll be able to see it on [Micro-purchase platform](https://micropurchase.18f.gov). We will make sure the auction is advertised to the micro-purchase vendor community (600 strong) in advance, and we will manage the auction all the way through to delivery.
 
 When the winning vendor delivers the work we will let you know, and we will work with someone on your team to evaluate the work. If the code is accepted, someone from your team will merge it into the code base and deploy it to production. The Micro-purchase team can pay the vendors using our p-card and reconcile the cost with the existing IAA.
 
