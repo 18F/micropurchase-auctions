@@ -3,7 +3,7 @@ The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a 
 
 We've helped teams do things like add [new functionality to their slackbot](https://micropurchase.18f.gov/admin/auctions/25), [set up Docker compose for their app](https://micropurchase.18f.gov/admin/auctions/22) and [even create a set of Wagtail templates](https://micropurchase.18f.gov/admin/auctions/32). It's taken as little as 2 weeks from the time an auction is advertised for quality code to be delivered.
 
-If you have work that you want to do, and not enough staff to take it on, running an auction may be a good solution. We hope to continue this work in the coming year and we want this repo to make it easier for you (TTS product leads, product owners, or product team members) to submit potential auctions ideas, and so that we can better help you.
+If you have work that you want to do, and not enough staff to take it on, running an auction may be a good solution. We hope to continue running successful auctions in the coming year and we want this repo to make it easier for you (TTS product leads, product owners, or product team members) to submit your auction ideas to us.
 
 Two important things to know before you get started. 
 
