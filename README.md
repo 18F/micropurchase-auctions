@@ -1,9 +1,9 @@
 # 18F Micro-purchase - Submit your auction
 The [Micro-purchase platform](https://micropurchase.18f.gov) has demonstrated a [good deal of success in the past year delivering quality open source code at a good price for a variety of government open source projects](https://micropurchase.18f.gov/insights). If you're unfamiliar with the micro-purchase auction platform, read about it [here](https://18f.gsa.gov/search/?q=micropurchase). 
 
-We've helped teams do things like add [new functionality to their slackbot](https://micropurchase.18f.gov/admin/auctions/25), and [set up Docker compose for their app](https://micropurchase.18f.gov/admin/auctions/22), and it's taken as little as 2 weeks from the time an auction is advertised for quality code to be delivered.
+We've helped teams do things like add [new functionality to their slackbot](https://micropurchase.18f.gov/admin/auctions/25), and [set up Docker compose for their app](https://micropurchase.18f.gov/admin/auctions/22) and [even create a set of Wagtail templates](https://micropurchase.18f.gov/admin/auctions/32). It's taken as little as 2 weeks from the time an auction is advertised for quality code to be delivered.
 
-We hope to continue this work in the coming year and we want this repo to make it easier for you (TTS product leads, product owners, or product team members) to submit potential auctions ideas, and so that we can better help you.
+If you have work that you want to do, and not enough staff to take it on, running an auction may be a good solution. We hope to continue this work in the coming year and we want this repo to make it easier for you (TTS product leads, product owners, or product team members) to submit potential auctions ideas, and so that we can better help you.
 
 Two important things to know before you get started. 
 
