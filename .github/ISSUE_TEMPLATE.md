@@ -19,7 +19,7 @@
 
 - What is the GitHub URL of the issue containing your auction requirements? 
 
-- What is the display title of your auction?
+- What is the display title of your auction? (e.g. "Help us set up Docker Compose for [project name]")
 
 - What is a good summary of your auction? (less than 250 characters)
 
